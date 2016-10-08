@@ -1,0 +1,103 @@
+body{border:solid;
+  display:inline-block;
+  margin:20px;
+  padding:10px;
+  background:url("http://www.pixelstalk.net/wp-content/uploads/2016/09/HD-Game-Backgrounds-1080p-Free-Download.jpg") no-repeat center top;
+ background-attachment:fixed;
+}
+.head{text-align:center;
+  color:rgba(234,0,255,0.65);
+  font-size:90px;
+font-family: 'Abril Fatface', cursive;
+  text-transform:uppercase;
+}
+.main{padding:100px;text-align:center;
+  margin:40px;border:inset;border-weight:thin;display:inline-block;
+  color:white;font-family:  cursive;
+  
+  
+}
+.images{
+  padding:0px 200px 0px 200px;
+  border:5px double white;
+}
+.captions{
+  text-transform:uppercase;
+  text-align:center;
+  color:white;
+}
+.contact{
+  padding:10px 20px;
+  display:inline-block;
+}.contact1{padding:0px 30px;
+float:left;}
+.contact2{padding:0px 80px 0px 20px;
+float:right;}
+.profile{padding:30px 30px 30px 50px;}
+h1{font-size:60px;}
+#navigation{
+  display:inline-block;
+  text-align:center;
+  
+}
+ul{list-style-type:none;}
+.navtop{
+  width:100%;
+  top:0;
+  left:0;
+  position:scroll;
+  overflow-y:auto;
+  padding:10px 20px 10px 20px;
+  text-transform:upper-case;
+}
+th{
+	text-transform:upper-case;
+}
+video{background-image:none;}
+.blueberry { margin: 0 auto; }
+.blueberry .slides {
+    display: block;
+    position: relative;
+    overflow: hidden;
+}
+.blueberry .slides li {
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+}
+.blueberry .slides li img {
+    display: block;
+    width: 1100px;
+    max-width: none;
+}
+.blueberry .slides li.active { display: block; position: relative; }
+.blueberry .crop li img { width: auto; }
+
+.blueberry .pager {
+    height: -10px;
+    text-align: center;
+}
+.blueberry .pager li { display: inline-block; }
+.blueberry .pager li a,
+.blueberry .pager li a span {
+    display: block;
+    height: 4px;
+    width: 4px;
+}
+.blueberry .pager li a {
+    padding: 18px 8px;
+-webkit-border-radius: 6px;
+   -moz-border-radius: 6px;
+    border-radius: 6px;
+}
+.blueberry .pager li a span {
+    overflow: hidden;
+    background: #c0c0c0;
+    text-indent: -9999px;
+-webkit-border-radius: 2px;
+   -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+.blueberry .pager li.active a span { background: #404040; }
+
